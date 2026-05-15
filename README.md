@@ -3,7 +3,7 @@
 
 這是一個專為華語音樂愛好者打造的互動式網頁工具。使用者可以透過簡單的「拖曳」方式，為第37屆金曲獎（GMA 37）各大獎項的入圍者進行個人心目中的排名預測，並一鍵匯出成精美的圖片與朋友分享！
 
-👉 **[點我立即體驗預測 (Live Demo)]([gma37-myfavourite.netlify.app](https://gma37-myfavourite.netlify.app/))**
+👉 **[點我立即體驗預測 (Live Demo)](https://gma37-myfavourite.netlify.app/)**
 
 ## ✨ 核心功能 (Features)
 
